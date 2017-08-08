@@ -1,0 +1,605 @@
+{
+  "Favorites": {
+    "description": "Label for the favorites products view, which shows all the products saved as favorites by the user.",
+    "message": "收藏夹"
+  },
+  "activatePages": {
+    "message": "欢迎使用 Pages! Pages 是 PSA 的一项新功能，你可以使用该功能保存页面上的重要内容，稍后再来查看。你只需单击页面右上角的蓝色加号按钮，就可以将相应内容保存到 Pages! 如果你想查看所保存的内容，可直接进入 PSA 网站上的 Pages 版块进行查看。"
+  },
+  "allSaved": {
+    "description": "The label for one of the default boards that shows all products saved to one or more boards.",
+    "message": "所有已收藏产品"
+  },
+  "allSellers": {
+    "description": "An option in the filter by seller control that selects products from all sellers.",
+    "message": "所有卖家"
+  },
+  "back": {
+    "message": "返回"
+  },
+  "browsed": {
+    "description": "Label for the view, which shows all the products browsed by the user. {MaxLength = 12}.",
+    "message": "已浏览"
+  },
+  "clear": {
+    "description": "Tooltip for the trash icon that clears/removes all products from a board of prducts, displayed as 'clear [boardname]'.",
+    "message": "清除"
+  },
+  "clearBrowsed": {
+    "description": "A button in the menu that deletes all the browsed products atomatically captured and shown in the browsed view.",
+    "message": "清除浏览记录"
+  },
+  "clearFavorites": {
+    "description": "A button in the menu that deletes all the products saved to the favorites collection.",
+    "message": "清除收藏夹"
+  },
+  "closeToolTip": {
+    "message": "关闭"
+  },
+  "compare_deepCompare": {
+    "message": "选择任意两个产品，以并行查看网页"
+  },
+  "compare_maxReached": {
+    "message": "可选择不超过 5 个产品进行比较"
+  },
+  "compare_minNotReached": {
+    "message": "必须至少选择两个产品进行比较"
+  },
+  "compare_open": {
+    "description": "Label for the button on the side by side compare pop up page, that opens the product web pages of the two products being compared, in two new browser windows, side by side.",
+    "message": "打开"
+  },
+  "compare_title": {
+    "description": "{Locked = 'Personal Shopping Assistant (Beta)'}.",
+    "message": "Personal Shopping Assistant (Beta) - 比较"
+  },
+  "confirm_deleteBoard": {
+    "description": "The concept of board here and everywhere in the product resembles a Pinterest board that contains products saved or favorited by the user.",
+    "message": "是否确定要删除此收藏单?"
+  },
+  "copy": {
+    "message": "复制"
+  },
+  "createNew": {
+    "message": "新建"
+  },
+  "customerRating": {
+    "message": "客户评价"
+  },
+  "default_name_placeholder": {
+    "description": "Default salutation used in the mail 'Hi there' if no name is provided in the form for sharing products, if a 'name' is provided in the share products form,the email starts as ' Hi name' .",
+    "message": "你好"
+  },
+  "delete": {
+    "message": "删除"
+  },
+  "deleteBoard": {
+    "description": "The concept of board here and everywhere in the product resembles a Pinterest board that contains products saved or favorited by the user.",
+    "message": "删除收藏单"
+  },
+  "done": {
+    "message": "完成"
+  },
+  "editBoardTitle": {
+    "description": "Tooltip that demonstrates to users they can click to edit the Name of a board.",
+    "message": "编辑标题"
+  },
+  "endOfSentence": {
+    "description": "the symbol to signal end of the sentence, which is a period.",
+    "message": "。"
+  },
+  "extensionDescription": {
+    "description": "{Locked = 'Your smart shopping cart across the web.'}.",
+    "message": "Your smart shopping cart across the web."
+  },
+  "extensionName": {
+    "description": "{Locked = 'Personal Shopping Assistant (Beta)'}.",
+    "message": "Personal Shopping Assistant (Beta)"
+  },
+  "facebook": {
+    "message": "Facebook"
+  },
+  "facebookMessengerBot": {
+    "description": "{Locked = 'Messenger'} A button in the menu that takes the user to the Facebook Messenger Bot dialog.",
+    "message": "在 Messenger 上聊天"
+  },
+  "facebookMessengerBot_faq": {
+    "description": "This button text will be hyperlinked to the Frequertly Asked Questions section on http://psa.microsoft.com.",
+    "message": "了解详细信息"
+  },
+  "facebookMessengerBot_msg": {
+    "description": "{Locked = 'Facebook Messenger'} Message explaining to the user to click on Yes/No buttons below to navigate to facebook messenger bot.",
+    "message": "单击下方在 Facebook Messenger 上和我聊天"
+  },
+  "facebookMessengerBot_title": {
+    "description": "{Locked = 'Personal Shopping Assistant Bot'}.",
+    "message": "Personal Shopping Assistant Bot"
+  },
+  "facebookMessengerBot_yes": {
+    "description": "Message to the user that clicking on this button will navigate them to the facebook messenger bot in a new tab on their browser.",
+    "message": "好了，开始吧!"
+  },
+  "favorites": {
+    "description": "Label for the favorites products view, which shows all the products saved as favorites by the user.",
+    "message": "收藏夹"
+  },
+  "feedback": {
+    "message": "反馈"
+  },
+  "feedback_comment_placeholder": {
+    "message": "期待你的回复..."
+  },
+  "feedback_email": {
+    "message": "你的电子邮件地址: (可选)"
+  },
+  "feedback_email_placeholder": {
+    "message": "你的电子邮件地址"
+  },
+  "feedback_featureSuggestion": {
+    "message": "功能建议"
+  },
+  "feedback_inTouch": {
+    "message": "如果你提供了联系信息，我们会跟你联系!"
+  },
+  "feedback_incorrectProductDetails": {
+    "message": "产品详细信息不正确"
+  },
+  "feedback_loveTheAssistant": {
+    "message": "喜欢这个助手"
+  },
+  "feedback_other": {
+    "message": "其他"
+  },
+  "feedback_productNotExtracted": {
+    "message": "未提取的产品"
+  },
+  "feedback_thankyou": {
+    "message": "感谢你的反馈!"
+  },
+  "feedback_title": {
+    "message": "通过提供反馈，可使你的助手更臻完善!"
+  },
+  "feedback_type": {
+    "message": "反馈类型:"
+  },
+  "feedback_url": {
+    "message": "URL: (可选)"
+  },
+  "feedback_url_placeholder": {
+    "message": "站点 URL"
+  },
+  "filter": {
+    "description": "Label for the control that lets users filter products by sellers, within the browsed, favorites and other product collection views.",
+    "message": "筛选​​"
+  },
+  "filterBy": {
+    "description": "Label for the control that lets users filter products by sellers, within the browsed, favorites and other product collection views.",
+    "message": "筛选依据"
+  },
+  "firstVisit": {
+    "message": "首次访问"
+  },
+  "footer_ms": {
+    "message": "2016 Microsoft Corporation。保留所有权利。"
+  },
+  "footer_privacyStatement": {
+    "message": "隐私声明"
+  },
+  "footer_termsOfUse": {
+    "message": "使用条款"
+  },
+  "from_otherPlacesToBuy": {
+    "description": "to denote the lowest price for a number of offers: 'Available at 3 other retailers *From $39.95*'.Parameter {{price}} is price, an example would be $39.95, $9.99.",
+    "message": "底价 {{price}}",
+    "placeholders": {
+      "price": {
+        "content": "$1"
+      }
+    }
+  },
+  "here": {
+    "message": "此处"
+  },
+  "iframe_hover_text": {
+    "description": "Hover text that appears when the user mouses over a save button that has been inserted into a page on their browser.",
+    "message": "保存到个人购物助手"
+  },
+  "launchCompare_prepare": {
+    "message": "再选择一个产品进行比较!"
+  },
+  "launchCompare_ready": {
+    "message": "单击此处开始比较!"
+  },
+  "launchShare": {
+    "message": "分享所选产品"
+  },
+  "login": {
+    "description": "A button within the settings view, that lets users login using their Google/Gmail or Microsoft/Outlook and soon facebook.",
+    "message": "登录"
+  },
+  "loginPrompt": {
+    "message": "请立即登录，以安全地备份你的产品，并随时在任何设备上访问它们。"
+  },
+  "login_confirmation": {
+    "message": "谢谢。你现在已登录"
+  },
+  "login_prompt": {
+    "message": "你需要登录。是否要立即登录?"
+  },
+  "logout": {
+    "description": "A button in the settings view, that logs out a logged in user.",
+    "message": "注销"
+  },
+  "logout_confirmation": {
+    "message": "谢谢。你现在已注销"
+  },
+  "name_placeholder": {
+    "description": "Used in the mail 'Hi there' if name is provided in the form for sharing products.Parameter {name} is name, an example would be Kate Smith.",
+    "message": "$name$，你好",
+    "placeholders": {
+      "name": {
+        "content": "$1"
+      }
+    }
+  },
+  "next": {
+    "message": "下一页"
+  },
+  "noPriceAvailable": {
+    "message": "无可用价格"
+  },
+  "numberOfReviews": {
+    "message": "评论数量"
+  },
+  "oobe_autoFavorites": {
+    "description": "Default message in the 'favorites' board when the user is yet to save any products they browsed as favorites, as part of the out of the box expereience (oobe).",
+    "message": "你收藏的所有产品均将在此处显示，但你似乎未收藏任何产品。你可以转到已浏览产品视图，将产品添加到收藏夹。"
+  },
+  "oobe_congrats_addedfromHistory": {
+    "description": "Message indicating that a set if products were added to the browsed tab from the user's web history, when they click and initiate 'Get Products', as part of the first out of the box experience.Parameter {numProductsAdded} is numProductsAdded, an example would be 40.",
+    "message": "太好了，我们从你的历史记录添加了 $numProductsAdded$ 个产品!",
+    "placeholders": {
+      "numProductsAdded": {
+        "content": "$1"
+      }
+    }
+  },
+  "oobe_emptyBrowseHistory": {
+    "message": "我们在你的浏览历史记录中未发现任何产品。"
+  },
+  "oobe_getProducts": {
+    "description": "If clicked, the app will retrieve recently viewed products from user's browser history.",
+    "message": "获取最近查看的产品"
+  },
+  "oobe_loading": {
+    "message": "正在加载..."
+  },
+  "oobe_prompt": {
+    "message": "你查看的产品将自动显示在这里，或列在下面的购物列表的顶部。"
+  },
+  "oobe_startShopping": {
+    "message": "你可以开始你的购物之旅了，该助手将自动在此处添加产品。"
+  },
+  "optin_prompt_0": {
+    "message": "你可以帮助我们使助手变得更智能。请单击下面的“启用”，以允许收集有关你的购物习惯的信息。这包括你访问的购物网站的 URL 和产品数据，包括你的浏览器历史记录。"
+  },
+  "optin_prompt_cancel": {
+    "message": "取消"
+  },
+  "optin_prompt_enable": {
+    "message": "启用"
+  },
+  "optin_prompt_end": {
+    "message": "即使你选择不启用，你仍然可以使用该助手。数据收集仅限于助手的匿名使用统计信息。收集的目的是为了帮助我们修复崩溃问题和改进性能。"
+  },
+  "optin_prompt_start": {
+    "description": "{Locked = 'Personal Shopping Assistant'}.",
+    "message": "感谢你安装 Personal Shopping Assistant。"
+  },
+  "pagesLoginRequired": {
+    "message": "必须先登录才能使用 Pages。按“登录”继续。"
+  },
+  "pin": {
+    "description": "A user control that lets users pin the shopping assistant as a persistent window to the side.",
+    "message": "固定"
+  },
+  "post_suggestion": {
+    "message": "发表意见"
+  },
+  "price": {
+    "message": "价格"
+  },
+  "priceChanges": {
+    "description": "Label for the collection of all tracked products, whose prices have changed.",
+    "message": "价格变动"
+  },
+  "priceHighToLow": {
+    "message": "价格: 由高到低"
+  },
+  "priceLowToHigh": {
+    "message": "价格: 由低到高"
+  },
+  "product": {
+    "message": "产品"
+  },
+  "productCard_compare": {
+    "message": "比较"
+  },
+  "productCard_customerReview": {
+    "message": "评论"
+  },
+  "productCard_customerReviews": {
+    "message": "评论"
+  },
+  "productCard_favorite": {
+    "message": "收藏夹"
+  },
+  "productCard_lastVisitNew": {
+    "description": "Shows up as 'Last vist: Date'.Parameter {date} is date, an example would be 'Aug 19, 2016', 'today'.",
+    "message": "上次访问日期: $date$",
+    "placeholders": {
+      "date": {
+        "content": "$1"
+      }
+    }
+  },
+  "productCard_noCustomerReviews": {
+    "message": "无评论"
+  },
+  "productCard_otherPlacesToBuy": {
+    "message": "搜索其他可购买的地方"
+  },
+  "productCard_otherPlacesToBuy_2": {
+    "description": "Parameter {offers} is offers, an example would be 3.",
+    "message": "查看另外 $offers$ 个报价",
+    "placeholders": {
+      "offers": {
+        "content": "$1"
+      }
+    }
+  },
+  "productCard_otherPlacesToBuy_3": {
+    "description": "Parameter {offers} is offers, an example would be 3.",
+    "message": " $offers$ 个报价",
+    "placeholders": {
+      "offers": {
+        "content": "$1"
+      }
+    }
+  },
+  "productCard_save": {
+    "description": "The label for the 'save' button used to save a product to one or more boards.",
+    "message": "保存"
+  },
+  "productCard_saved": {
+    "description": "The label for the 'save' button changes to 'saved' after a user saves a product to one or more boards.",
+    "message": "已保存"
+  },
+  "productCard_share": {
+    "message": "分享"
+  },
+  "productCard_youVisitedMultiple": {
+    "description": "Label in the product card that indicates the number of times the user has visited the product web page, e.g. 'you visited 2 times'.Parameter {num} is num, an example would be 3.",
+    "message": "你访问了 $num$ 次。",
+    "placeholders": {
+      "num": {
+        "content": "$1"
+      }
+    }
+  },
+  "productCard_youVisitedSingle": {
+    "description": "Label in the product card that indicates the number of times the user has visited the product web page, e.g. 'you visited once'.",
+    "message": "你访问了一次。"
+  },
+  "recentPriceChanges": {
+    "description": "Label for the notifications view that shows all tracked products whose prices have changed .",
+    "message": "近期价格变动"
+  },
+  "recentlyVisited": {
+    "description": "An option in the sorting control to sort by most recently visited product first.",
+    "message": "最近访问的产品"
+  },
+  "recommendation_noRecommendations": {
+    "message": "找不到其他可购买的地方。"
+  },
+  "recommendation_otherPlacesToBuy": {
+    "message": "其他可购买的地方"
+  },
+  "remove": {
+    "message": "删除"
+  },
+  "report_problem": {
+    "message": "报告问题"
+  },
+  "retailer": {
+    "message": "零售商"
+  },
+  "save_createNew_title": {
+    "description": "The concept of board here and everywhere in the product resembles a Pinterest board that contains products saved or favorited by the user.",
+    "message": "你希望如何命名该收藏单?"
+  },
+  "saved_tab": {
+    "description": "Label for the view, which shows all the product collections including favorites that a user has saved products into.{MaxLength = 12}.",
+    "message": "已保存"
+  },
+  "scrollNote": {
+    "message": "使用箭头键滚动"
+  },
+  "select": {
+    "message": "选择"
+  },
+  "selectAll": {
+    "message": "全选"
+  },
+  "send": {
+    "description": "Label for the Send button in the 'Feedback' form.",
+    "message": "发送​​"
+  },
+  "sendFeedback": {
+    "description": "A button in the menu that enables users to provide feedback.",
+    "message": "发送反馈"
+  },
+  "sendToMobile": {
+    "description": "A button in the menu that sends a URL  to access the assistant on the phone, to the user's email address.",
+    "message": "发送到手机"
+  },
+  "sendToMobile_congrats": {
+    "description": "Success message from the 'send to mobile' form after the user enters a valid email address or uses the default  and succesfuly sends the URL link to the email address by clicking on 'ok'.Parameter {email} is email, an example would be someone@example.com.",
+    "message": "恭喜! 将向 $email$ 发送电子邮件链接。请务必查看一下垃圾邮件文件夹。",
+    "placeholders": {
+      "email": {
+        "content": "$1"
+      }
+    }
+  },
+  "sendToMobile_title": {
+    "description": "Label for the text box in the 'send to mobile' form that indicates that the user provide an email address to email the mobile web link for the shopping assistant experience, this is defaulted to the user's email address associated with their login.",
+    "message": "请输入有效的电子邮件地址。"
+  },
+  "settings": {
+    "description": "A button in the menu that opens up the settings view.",
+    "message": "设置"
+  },
+  "settings_alpha": {
+    "description": "An indication that a feature is in Alpha (i.e. https://en.wikipedia.org/wiki/Software_release_life_cycle#Alpha).",
+    "message": "Alpha"
+  },
+  "settings_experimentalFeatures": {
+    "description": "Section heading in the settings menu for experimental features.",
+    "message": "实验功能"
+  },
+  "settings_favoriteButton": {
+    "description": "A button in the settings view, that controls (toggles) whether to show a quick save shortcut button on product web pages or not. When enabled, users can quickly save products to favorites or other product collections from the web page without opening the assistant. {MaxLength = 39}.",
+    "message": "产品页面上的“收藏夹”按钮"
+  },
+  "settings_feedbackButton": {
+    "description": "A button in assistant that enables users to provide feedback through a form. {MaxLength = 39}.",
+    "message": "“反馈”按钮"
+  },
+  "settings_pagesFeatureName": {
+    "description": "The name for a feature that allows users to save and organize arbitrary webpages.",
+    "message": "Pages"
+  },
+  "settings_priceChangeThreshold": {
+    "description": "A slider in settings that allows users to change the threshold above which price change notifications trigger.",
+    "message": "价格变动阈值"
+  },
+  "share": {
+    "message": "分享​​"
+  },
+  "shareModalMessage": {
+    "message": "选择共享方式"
+  },
+  "share_comment": {
+    "message": "评论(可选)"
+  },
+  "share_comment_placeholder": {
+    "description": "Used when sharing a product item. It means to check out the product being shared.",
+    "message": "例如，将其签出!"
+  },
+  "share_congrats": {
+    "description": "Message indicating that an email with details about all the products shared will be sent to the person/email address , with whom the user wants to share selected products, from the share products form.Parameter {email} is email, an example would be someone@example.com.",
+    "message": "恭喜! 很快将向 $email$ 发送一封电子邮件。",
+    "placeholders": {
+      "email": {
+        "content": "$1"
+      }
+    }
+  },
+  "share_email": {
+    "message": "电子邮件"
+  },
+  "share_email_placeholder": {
+    "message": "例如，someone@example.com"
+  },
+  "share_name": {
+    "message": "名称(可选)"
+  },
+  "share_name_placeholder": {
+    "message": "例如，John Smith"
+  },
+  "share_title": {
+    "message": "与以下人员分享此产品:"
+  },
+  "sort": {
+    "description": "Label for the control that lets users sort products by last visited time, price, customer rating and number of reviews within the browsed, favorites and other product collection views.",
+    "message": "排序"
+  },
+  "sortBy": {
+    "description": "Label for the control that lets users sort products by last visted time, prices, customer rating and number of reviews.",
+    "message": "排序依据"
+  },
+  "startTutorial": {
+    "message": "单击此处启动教程"
+  },
+  "tip_emptySaved": {
+    "message": "单击“保存”按钮，将你喜欢的产品添加到此功能板"
+  },
+  "tip_favorites": {
+    "message": "你将收到收藏的产品的价格变动通知"
+  },
+  "tip_previousPriceChanges": {
+    "message": "可以找到之前的价格变动"
+  },
+  "tip_priceUpdates": {
+    "message": "接收收藏的产品的价格变动通知。"
+  },
+  "today": {
+    "message": "今天"
+  },
+  "tour_browsed": {
+    "message": "你将在此处发现最近浏览的产品。"
+  },
+  "tour_favorite": {
+    "message": "收藏到任意版块以跟踪价格变动"
+  },
+  "tour_filter": {
+    "message": "按卖家和类别筛选产品。"
+  },
+  "tour_pin": {
+    "message": "将我固定到一侧并继续购物。"
+  },
+  "tour_priceChanges": {
+    "message": "在收藏的产品出现价格变动时通知我。"
+  },
+  "tour_sort": {
+    "message": "按价格、评价等排序。"
+  },
+  "tutorial": {
+    "description": "A button in the menu that walks the users through a short tutorial of the assistant.",
+    "message": "教程"
+  },
+  "unselect": {
+    "message": "取消选择"
+  },
+  "warning_boardNameExists": {
+    "description": "The concept of board here and everywhere in the product resembles a Pinterest board that contains products saved or favorited by the user.",
+    "message": "此收藏单已存在!"
+  },
+  "warning_boardNameTooLong": {
+    "description": "The concept of board here and everywhere in the product resembles a Pinterest board that contains products saved or favorited by the user.",
+    "message": "你输入的名称过长!(最多 40 个字符)"
+  },
+  "warning_clearFavorites": {
+    "message": "清除收藏夹?"
+  },
+  "warning_clearHistory": {
+    "message": "是否确定要清除已查看的产品历史记录?"
+  },
+  "warning_deleteFavorite": {
+    "message": "是否确定要删除? 此产品也将从你的收藏夹列表删除。"
+  },
+  "warning_deleteProducts": {
+    "message": "是否确定要删除所选产品? 这些产品也会从任何保存的版块中移除。"
+  },
+  "warning_emptyBoardName": {
+    "description": "Message indiocating that the user needs to provide a name in the 'create new board' form, if the user tries to press ok without providing one. The concept of board here and everywhere in the product resembles a Pinterest board that contains products saved or favorited by the user.",
+    "message": "哎呀! 你需要命名你的收藏单!"
+  },
+  "warning_invalidemail": {
+    "message": "电子邮件地址无效，请重试"
+  },
+  "yesterday": {
+    "message": "昨天"
+  }
+}

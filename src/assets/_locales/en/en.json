@@ -1,0 +1,612 @@
+{
+  "loginPrompt": {
+    "message": "Please login now to back up your products safely and access them anytime on any device."
+  },
+  "browsed": {
+    "message": "Browsed",
+    "description": "Label for the view, which shows all the products browsed by the user. {MaxLength = 12}"
+  },
+  "favorites": {
+    "message": "Favorites",
+    "description": "Label for the favorites products view, which shows all the products saved as favorites by the user."
+  },
+  "Favorites": {
+    "message": "Favorites",
+    "description": "Label for the favorites products view, which shows all the products saved as favorites by the user."
+  },
+  "saved_tab": {
+    "message": "Saved",
+    "description": "Label for the view, which shows all the product collections including favorites that a user has saved products into.{MaxLength = 12}"
+  },
+  "filter": {
+    "message": "Filter",
+    "description": "Label for the control that lets users filter products by sellers, within the browsed, favorites and other product collection views."
+  },
+  "sort": {
+    "message": "Sort",
+    "description": "Label for the control that lets users sort products by last visited time, price, customer rating and number of reviews within the browsed, favorites and other product collection views."
+  },
+  "editBoardTitle": {
+    "message": "Edit Title",
+    "description": "Tooltip that demonstrates to users they can click to edit the Name of a board"
+  },
+  "priceChanges": {
+    "message": "Price changes",
+    "description": "Label for the collection of all tracked products, whose prices have changed."
+  },
+  "recentPriceChanges": {
+    "message": "Recent price changes",
+    "description": "Label for the notifications view that shows all tracked products whose prices have changed ."
+  },
+  "pin": {
+    "message": "Pin",
+    "description": "A user control that lets users pin the shopping assistant as a persistent window to the side."
+  },
+  "next": {
+    "message": "Next"
+  },
+  "here": {
+    "message": "here"
+  },
+  "done": {
+    "message": "Done"
+  },
+  "clear": {
+    "message": "Clear",
+    "description": "Tooltip for the trash icon that clears/removes all products from a board of prducts, displayed as 'clear [boardname]'"
+  },
+  "delete": {
+    "message": "Delete"
+  },
+  "remove": {
+    "message": "Remove"
+  },
+  "back": {
+    "message": "Back"
+  },
+  "closeToolTip": {
+    "message": "Close"
+  },
+  "clearBrowsed": {
+    "message": "Clear Browsed",
+    "description": "A button in the menu that deletes all the browsed products atomatically captured and shown in the browsed view."
+  },
+  "clearFavorites": {
+    "message": "Clear Favorites",
+    "description": "A button in the menu that deletes all the products saved to the favorites collection."
+  },
+  "sendToMobile": {
+    "message": "Send to mobile",
+    "description": "A button in the menu that sends a URL  to access the assistant on the phone, to the user's email address."
+  },
+  "tutorial": {
+    "message": "Tutorial",
+    "description": "A button in the menu that walks the users through a short tutorial of the assistant."
+  },
+  "sendFeedback": {
+    "message": "Send feedback",
+    "description": "A button in the menu that enables users to provide feedback."
+  },
+  "settings": {
+    "message": "Settings",
+    "description": "A button in the menu that opens up the settings view."
+  },
+  "login": {
+    "message": "Login",
+    "description": "A button within the settings view, that lets users login using their Google/Gmail or Microsoft/Outlook and soon facebook."
+  },
+  "logout": {
+    "message": "Logout",
+    "description": "A button in the settings view, that logs out a logged in user."
+  },
+  "settings_favoriteButton": {
+    "message": "Favorite Button on Product Pages",
+    "description": "A button in the settings view, that controls (toggles) whether to show a quick save shortcut button on product web pages or not. When enabled, users can quickly save products to favorites or other product collections from the web page without opening the assistant. {MaxLength = 39}"
+  },
+  "settings_feedbackButton": {
+    "message": "Feedback Buttons",
+    "description": "A button in assistant that enables users to provide feedback through a form. {MaxLength = 39}"
+  },
+  "settings_priceChangeThreshold": {
+    "message": "Price Change Threshold",
+    "description": "A slider in settings that allows users to change the threshold above which price change notifications trigger"
+  },
+  "filterBy": {
+    "message": "Filter by",
+    "description": "Label for the control that lets users filter products by sellers, within the browsed, favorites and other product collection views."
+  },
+  "allSellers": {
+    "message": "All sellers",
+    "description": "An option in the filter by seller control that selects products from all sellers."
+  },
+  "sortBy": {
+    "message": "Sort by",
+    "description": "Label for the control that lets users sort products by last visted time, prices, customer rating and number of reviews."
+  },
+  "recentlyVisited": {
+    "message": "Recently visited",
+    "description": "An option in the sorting control to sort by most recently visited product first."
+  },
+  "priceHighToLow": {
+    "message": "Price: High to low"
+  },
+  "priceLowToHigh": {
+    "message": "Price: Low to high"
+  },
+  "numberOfReviews": {
+    "message": "Number of reviews"
+  },
+  "noPriceAvailable": {
+    "message": "No price available"
+  },
+  "productCard_customerReview": {
+    "message": "review"
+  },
+  "productCard_customerReviews": {
+    "message": "reviews"
+  },
+  "productCard_noCustomerReviews": {
+    "message": "No reviews"
+  },
+  "productCard_favorite": {
+    "message": "Favorite"
+  },
+  "productCard_compare": {
+    "message": "Compare"
+  },
+  "productCard_share": {
+    "message": "Share"
+  },
+  "productCard_youVisitedMultiple": {
+    "message": "You visited $num$ times.",
+    "description": "Label in the product card that indicates the number of times the user has visited the product web page, e.g. 'you visited 2 times'.",
+    "placeholders": {
+      "num": {
+        "content": "$1",
+        "example": "3"
+      }
+    }
+  },
+  "productCard_youVisitedSingle": {
+    "message": "You visited once.",
+    "description": "Label in the product card that indicates the number of times the user has visited the product web page, e.g. 'you visited once'."
+  },
+  "productCard_lastVisitNew": {
+    "message": "Last visit: $date$",
+    "description": "Shows up as 'Last vist: Date'",
+    "placeholders": {
+      "date": {
+        "content": "$1",
+        "example": "'Aug 19, 2016', 'today'"
+      }
+    }
+  },
+  "today": {
+    "message": "today"
+  },
+  "yesterday": {
+    "message": "yesterday"
+  },
+  "from_otherPlacesToBuy": {
+    "message": "From $price$",
+    "description": "to denote the lowest price for a number of offers: 'Available at 3 other retailers *From $39.95*'",
+    "placeholders": {
+      "price": {
+        "content": "$1",
+        "example": "$39.95, $9.99"
+      }
+    }
+  },
+  "productCard_otherPlacesToBuy": {
+    "message": "Search for other places to buy"
+  },
+  "launchCompare_prepare": {
+    "message": "Select one more product for Comparison!"
+  },
+  "launchCompare_ready": {
+    "message": "Click here to launch comparison!"
+  },
+  "compare_minNotReached": {
+    "message": "At least 2 products must be selected for compare"
+  },
+  "compare_maxReached": {
+    "message": "No more than 5 products may be selected for compare"
+  },
+  "compare_deepCompare": {
+    "message": "Select any 2 to view webpages side by side"
+  },
+  "compare_open": {
+    "message": "Open",
+    "description": "Label for the button on the side by side compare pop up page, that opens the product web pages of the two products being compared, in two new browser windows, side by side."
+  },
+  "copy": {
+    "message": "Copy"
+  },
+  "select": {
+    "message": "Select"
+  },
+  "selectAll": {
+    "message": "Select All"
+  },
+  "unselect": {
+    "message": "Unselect"
+  },
+  "startTutorial": {
+    "message": "Click here to start tutorial"
+  },
+  "launchShare": {
+    "message": "Share Selected Products"
+  },
+  "sendToMobile_title": {
+    "message": "Please enter a valid email address to send to.",
+    "description": "Label for the text box in the 'send to mobile' form that indicates that the user provide an email address to email the mobile web link for the shopping assistant experience, this is defaulted to the user's email address associated with their login"
+  },
+  "sendToMobile_congrats": {
+    "message": "Congrats! An email link will be sent to $email$.  Please be sure to check your spam folder.",
+    "description": "Success message from the 'send to mobile' form after the user enters a valid email address or uses the default  and succesfuly sends the URL link to the email address by clicking on 'ok'.",
+    "placeholders": {
+      "email": {
+        "content": "$1",
+        "example": "someone@example.com"
+      }
+    }
+  },
+  "tip_favorites": {
+    "message": "You will get price change notifications for favorites"
+  },
+  "tip_priceUpdates": {
+    "message": "Receive notifications on price changes to your saved products."
+  },
+  "tip_previousPriceChanges": {
+    "message": "Previous price changes can be found "
+  },
+  "warning_invalidemail": {
+    "message": "Invalid email address, try again"
+  },
+  "warning_clearHistory": {
+    "message": "Are you sure you want to clear your viewed products history?"
+  },
+  "warning_clearFavorites": {
+    "message": "Clear Favorites?"
+  },
+  "warning_deleteFavorite": {
+    "message": "Are you sure you wish to delete? This product will be removed from your favorite list as well."
+  },
+  "oobe_prompt": {
+    "message": "Products you view will automatically appear here. Or get a head start on your shopping list below!"
+  },
+  "oobe_getProducts": {
+    "message": "Get recently viewed products",
+    "description": "If clicked, the app will retrieve recently viewed products from user's browser history."
+  },
+  "oobe_emptyBrowseHistory": {
+    "message": "We didn't find any products from your browse history."
+  },
+  "oobe_startShopping": {
+    "message": "You can start your shopping journey and the assitant will automatically add products here."
+  },
+  "oobe_loading": {
+    "message": "Loading..."
+  },
+  "oobe_autoFavorites": {
+    "message": "All your favorite products will be displayed here, looks like you don't have any. You can go to your browsed view to add products to favorites.",
+    "description": "Default message in the 'favorites' board when the user is yet to save any products they browsed as favorites, as part of the out of the box expereience (oobe)."
+  },
+  "oobe_congrats_addedfromHistory": {
+    "message": "Awesome, we added $numProductsAdded$ products from your history!",
+    "placeholders": {
+      "numProductsAdded": {
+        "content": "$1",
+        "example": "40"
+      }
+    },
+    "description": "Message indicating that a set if products were added to the browsed tab from the user's web history, when they click and initiate 'Get Products', as part of the first out of the box experience."
+  },
+  "recommendation_otherPlacesToBuy": {
+    "message": "Other places to buy"
+  },
+  "recommendation_noRecommendations": {
+    "message": "Could not find other places to buy."
+  },
+  "productCard_otherPlacesToBuy_2": {
+    "message": "See $offers$ more offer(s)",
+    "placeholders": {
+      "offers": {
+        "content": "$1",
+        "example": "3"
+      }
+    }
+  },
+  "productCard_otherPlacesToBuy_3": {
+    "message": " $offers$ offer(s)",
+    "placeholders": {
+      "offers": {
+        "content": "$1",
+        "example": "3"
+      }
+    }
+  },
+  "product": {
+    "message": "Product"
+  },
+  "customerRating": {
+    "message": "Customer rating"
+  },
+  "price": {
+    "message": "Price"
+  },
+  "retailer": {
+    "message": "Retailer"
+  },
+  "firstVisit": {
+    "message": "First visit"
+  },
+  "login_prompt": {
+    "message": "This requires you to log in. Do you want to log in now?"
+  },
+  "login_confirmation": {
+    "message": "Thank you. You are now logged in"
+  },
+  "logout_confirmation": {
+    "message": "Thank you. You are now logged out"
+  },
+  "share": {
+    "message": "Share"
+  },
+  "share_title": {
+    "message": "Share this product with:"
+  },
+  "share_name": {
+    "message": "Name (optional)"
+  },
+  "share_name_placeholder": {
+    "message": "e.g., John Smith"
+  },
+  "share_email": {
+    "message": "Email"
+  },
+  "share_email_placeholder": {
+    "message": "e.g., someone@example.com"
+  },
+  "share_comment": {
+    "message": "Comment (optional)"
+  },
+  "share_comment_placeholder": {
+    "message": "e.g., Check this out!",
+    "description": "Used when sharing a product item. It means to check out the product being shared."
+  },
+  "share_congrats": {
+    "message": "Congrats! An email will be sent to $email$ shortly.",
+    "placeholders": {
+      "email": {
+        "content": "$1",
+        "example": "someone@example.com"
+      }
+    },
+    "description": "Message indicating that an email with details about all the products shared will be sent to the person/email address , with whom the user wants to share selected products, from the share products form."
+  },
+  "send": {
+    "message": "Send",
+    "description": "Label for the Send button in the 'Feedback' form."
+  },
+  "name_placeholder": {
+    "message": "Hi $name$",
+    "placeholders": {
+      "name": {
+        "content": "$1",
+        "example": "Kate Smith"
+      }
+    },
+    "description": "Used in the mail 'Hi there' if name is provided in the form for sharing products"
+  },
+  "default_name_placeholder": {
+    "message": "Hi there",
+    "description": "Default salutation used in the mail 'Hi there' if no name is provided in the form for sharing products, if a 'name' is provided in the share products form,the email starts as ' Hi name' "
+  },
+  "endOfSentence": {
+    "message": ".",
+    "description": "the symbol to signal end of the sentence, which is a period"
+  },
+  "footer_ms": {
+    "message": "2016 Microsoft Corporation. All rights reserved."
+  },
+  "footer_termsOfUse": {
+    "message": "Terms of Use"
+  },
+  "footer_privacyStatement": {
+    "message": "Privacy Statement"
+  },
+  "feedback": {
+    "message": "Feedback"
+  },
+  "report_problem": {
+    "message": "Report a problem"
+  },
+  "post_suggestion": {
+    "message": "Post an Idea"
+  },
+  "feedback_title": {
+    "message": "Feedback makes your assistant better!"
+  },
+  "feedback_type": {
+    "message": "Type of feedback:"
+  },
+  "feedback_productNotExtracted": {
+    "message": "Product not Extracted"
+  },
+  "feedback_incorrectProductDetails": {
+    "message": "Incorrect Product Details"
+  },
+  "feedback_featureSuggestion": {
+    "message": "Feature Suggestion"
+  },
+  "feedback_loveTheAssistant": {
+    "message": "Love the Assistant"
+  },
+  "feedback_other": {
+    "message": "Other"
+  },
+  "feedback_url": {
+    "message": "URL: (optional)"
+  },
+  "feedback_url_placeholder": {
+    "message": "Site Url"
+  },
+  "feedback_comment_placeholder": {
+    "message": "We love to hear from you..."
+  },
+  "feedback_email": {
+    "message": "Your email address: (optional)"
+  },
+  "feedback_email_placeholder": {
+    "message": "Your email address"
+  },
+  "feedback_inTouch": {
+    "message": "We'll be in touch if you provide contact info!"
+  },
+  "feedback_thankyou": {
+    "message": "Thanks for your feedback!"
+  },
+  "tour_browsed": {
+    "message": "You will find your recently browsed products here."
+  },
+  "tour_favorite": {
+    "message": "Save to any board to track price changes"
+  },
+  "tour_filter": {
+    "message": "Filter products by sellers and categories."
+  },
+  "tour_sort": {
+    "message": "Sort by price, rating and more."
+  },
+  "tour_priceChanges": {
+    "message": "Get notified of price changes on saved products."
+  },
+  "tour_pin": {
+    "message": "Pin me to the side and continue shopping."
+  },
+  "productCard_save": {
+    "message": "Save",
+    "description": "The label for the 'save' button used to save a product to one or more boards."
+  },
+  "productCard_saved": {
+    "message": "Saved",
+    "description": "The label for the 'save' button changes to 'saved' after a user saves a product to one or more boards."
+  },
+  "allSaved": {
+    "message": "All saved",
+    "description": "The label for one of the default boards that shows all products saved to one or more boards."
+  },
+  "createNew": {
+    "message": "Create new"
+  },
+  "save_createNew_title": {
+    "message": "What would you like to call this board?",
+    "description": "The concept of board here and everywhere in the product resembles a Pinterest board that contains products saved or favorited by the user."
+  },
+  "tip_emptySaved": {
+    "message": "Add products you like to this board by clicking on the save button"
+  },
+  "warning_boardNameExists": {
+    "message": "This board already exists!",
+    "description": "The concept of board here and everywhere in the product resembles a Pinterest board that contains products saved or favorited by the user."
+  },
+  "warning_emptyBoardName": {
+    "message": "Oops! You need to name your board!",
+    "description": "Message indiocating that the user needs to provide a name in the 'create new board' form, if the user tries to press ok without providing one. The concept of board here and everywhere in the product resembles a Pinterest board that contains products saved or favorited by the user."
+  },
+  "warning_boardNameTooLong": {
+    "message": "The name you have entered is too long! (max 40 characters).",
+    "description": "The concept of board here and everywhere in the product resembles a Pinterest board that contains products saved or favorited by the user."
+  },
+  "confirm_deleteBoard": {
+    "message": "Are you sure you want to delete this board?",
+    "description": "The concept of board here and everywhere in the product resembles a Pinterest board that contains products saved or favorited by the user."
+  },
+  "deleteBoard": {
+    "message": "Delete board",
+    "description": "The concept of board here and everywhere in the product resembles a Pinterest board that contains products saved or favorited by the user."
+  },
+  "compare_title": {
+    "message": "Personal Shopping Assistant (Beta) - Compare",
+    "description": "{Locked = 'Personal Shopping Assistant (Beta)'}"
+  },
+  "extensionName": {
+    "message": "Personal Shopping Assistant (Beta)",
+    "description": "{Locked = 'Personal Shopping Assistant (Beta)'}"
+  },
+  "extensionDescription": {
+    "message": "Your smart shopping cart across the web.",
+    "description": "{Locked = 'Your smart shopping cart across the web.'}"
+  },
+  "scrollNote": {
+    "message": "Use arrow keys to scroll"
+  },
+  "optin_prompt_start": {
+    "message": "Thank you for installing the Personal Shopping Assistant.",
+    "description": "{Locked = 'Personal Shopping Assistant'}"
+  },
+  "optin_prompt_0": {
+    "message": "You can help the assistant get smarter. Please click 'Enable' below to allow collection of information about your shopping habits. This includes URLs and product data from shopping websites you visit, including your browser history."
+  },
+  "optin_prompt_end": {
+    "message": "You can still use the assistant, even if you choose not to enable. The data collection will be restricted to only anonymous usage statistics for the assistant. This is to help us fix crashes and improve performance."
+  },
+  "optin_prompt_enable": {
+    "message": "Enable"
+  },
+  "optin_prompt_cancel": {
+    "message": "Cancel"
+  },
+  "facebookMessengerBot": {
+    "message": "Chat on Messenger",
+    "description": "{Locked = 'Messenger'} A button in the menu that takes the user to the Facebook Messenger Bot dialog."
+  },
+  "facebookMessengerBot_title": {
+    "message": "Personal Shopping Assistant Bot",
+    "description": "{Locked = 'Personal Shopping Assistant Bot'}"
+  },
+  "facebookMessengerBot_msg": {
+    "message": "Click below to chat with me on Facebook Messenger",
+    "description": "{Locked = 'Facebook Messenger'} Message explaining to the user to click on Yes/No buttons below to navigate to facebook messenger bot."
+  },
+  "facebookMessengerBot_faq": {
+    "message": "Learn more",
+    "description": "This button text will be hyperlinked to the Frequertly Asked Questions section on http://psa.microsoft.com"
+  },
+  "facebookMessengerBot_yes": {
+    "message": "OK, let's go!",
+    "description": "Message to the user that clicking on this button will navigate them to the facebook messenger bot in a new tab on their browser"
+  },
+  "shareModalMessage": {
+    "message": "Choose method to share"
+  },
+  "facebook": {
+    "message": "Facebook"
+  },
+  "warning_deleteProducts" : {
+    "message": "Are you sure to delete the selected products? These products will be removed from any saved board as well."
+  },
+  "activatePages" : {
+    "message": "Welcome to Pages! Pages is a new feature from PSA that allows you to save whatever's important to you from around the web and come back to it later. Just click on the blue plus button in the top right corner of any page to save it to Pages!<br/><br/>When you want to take a look at what you've saved, head over to your <a href='https://psa.microsoft.com/myboards/#/boards/Pages' target='_blank'>Pages board</a> on the PSA website."
+  },
+  "pagesLoginRequired" : {
+    "message": "The use of Pages requires you to log in. Press 'Login' to continue."
+  },
+  "settings_experimentalFeatures" : {
+    "message": "Experimental Features",
+    "description": "Section heading in the settings menu for experimental features."
+  },
+  "settings_pagesFeatureName": {
+    "message": "Pages",
+    "description": "The name for a feature that allows users to save and organize arbitrary webpages."
+  },
+  "settings_alpha": {
+    "message": "Alpha",
+    "description": "An indication that a feature is in Alpha (i.e. https://en.wikipedia.org/wiki/Software_release_life_cycle#Alpha)."
+  },
+  "iframe_hover_text": {
+    "message": "Save to Personal Shopping Assistant",
+    "description": "Hover text that appears when the user mouses over a save button that has been inserted into a page on their browser."
+  }
+}
